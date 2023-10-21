@@ -1,2 +1,7 @@
 Django==4.2.6
 Pillow==10.1.0
+social_auth_app_django==5.4.0
+django-extensions==3.2.3
+werkzeug==3.0.0
+pyOpenSSL==23.2.0
+python_dotenv==1.0.0
