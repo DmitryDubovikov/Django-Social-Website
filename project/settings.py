@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # external apps
     "social_django",
     "django_extensions",
+    "easy_thumbnails",
     # internal apps
     "images.apps.ImagesConfig",
 ]
